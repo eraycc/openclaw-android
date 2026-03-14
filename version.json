@@ -1,8 +1,8 @@
 {
   "AppName": "OpenClaw Control",
   "PackageName": "any.openclaw.geteway",
-  "AnnounceMent": "已是最新版本，点击进入即可登陆",
-  "ReleaseNotes": "OpenClaw Control v1.0正式版发布",
+  "AnnounceMent": "已是最新版本，点击进入即可登陆！",
+  "ReleaseNotes": "OpenClaw Control v1.0正式版发布,支持自动保存登陆信息",
   "VersionCode": 1,
   "ReleaseVersion": "1.0",
   "BetaVersion": "1.0",
