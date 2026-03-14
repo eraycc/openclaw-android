@@ -1,0 +1,16 @@
+{
+  "AppName": "OpenClaw Control",
+  "PackageName": "any.openclaw.geteway",
+  "AnnounceMent": "目前正在持续更新中…",
+  "ReleaseNotes": "OpenClaw Control v1.0正式版发布",
+  "VersionCode": 1,
+  "ReleaseVersion": "1.0",
+  "BetaVersion": "1.0",
+  "MinSupportedOS": "Android 11",
+  "TargetSDK": 34,
+  "DownloadUrl": "https://example.com/download/latest.apk",
+  "FileSize": "15.2 MB",
+  "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+  "forceUpdate": true,
+  "lastUpdated": "2026-03-14T12:00:00Z"
+}
