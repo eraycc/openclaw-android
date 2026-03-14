@@ -8,9 +8,9 @@
   "BetaVersion": "1.0",
   "MinSupportedOS": "Android 11",
   "TargetSDK": 34,
-  "DownloadUrl": "https://example.com/download/latest.apk",
-  "FileSize": "15.2 MB",
-  "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+  "DownloadUrl": "https://github.com/eraycc/openclaw-android/releases/download/OpenClaw-Control-Ver1.1/OpenClaw.Control_1.1.apk",
+  "FileSize": "3.13 MB",
+  "MD5": "00925a27257e5a0ad04d96cffc248ecb",
   "forceUpdate": true,
   "lastUpdated": "2026-03-14T12:00:00Z"
 }
